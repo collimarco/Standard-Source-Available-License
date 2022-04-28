@@ -22,7 +22,7 @@ This section describes the motivations for the creation and adoption of this lic
 
 ### Limits of open source licenses
 
-Open source has great advantages, but, often, it is also a way for big corporations to exploit the work of independent developers.
+Open source has great advantages, but, often, it is also a way for large corporations to exploit the work of independent developers.
 
 This has produced a negative impact on the ecosystem, including:
 
@@ -32,7 +32,7 @@ This has produced a negative impact on the ecosystem, including:
 
 ### A "standard" source available license
 
-I propose a license that has the following qualities:
+This license has the following qualities:
 
 - Simple
 - Inspired by permissive licenses
@@ -53,7 +53,8 @@ A wide adoption of this license will make it legally required for larger organiz
 Disclaimer: this is not legal advice, but an interpretation of the license.
 
 ### Why another license?
-If you use a traditional, permissive license, like MIT / BSD, it's difficult to monetize the software.
+If you use a traditional, permissive license, like MIT / BSD, it's difficult to monetize and sustain the software.
+On the other hand, commercial licenses are difficult to understand and adopt because they impose too many restrictions and clauses.
 
 ### Why use this license instead of dual licensing (OSS + commercial)?
 If you keep the commercial-licensed code private, collaboration becomes more difficult, like traditional proprietary software.
