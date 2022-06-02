@@ -62,6 +62,11 @@ It is also difficult to understand the effects of the EULA, since they are alway
 From a marketing perspective, it can also be difficult to let the users try your commercial code.
 Using this license, you have most freedoms of open source, easy distribution and collaboration, without the need of separate repositories, and a license that is easy to understand.
 
+### Is this short license flexible enough for any business model?
+The goal of this license is to be minimalist, but flexible about the business model.
+The legal terms (point 2) delegate to the executable code the details of the license mechanism and state that it's illegal to alter that mechanism.
+In case of a SaaS, for example, you can include code in the software that checks the usage (requests, cluster size, etc.) and bills accordingly.
+
 ### Can I use SSAL-licensed software inside / with software under a different license?
 This license does not limit your rights to use the software inside a software distributed with a different license.
 However you need to keep the copyright and any license key validation or related code.
